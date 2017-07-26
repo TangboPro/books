@@ -318,7 +318,10 @@
 *   大型网站系统与Java中间件实践
 *   分布式Java应用：基础与实践
 ## 网页
+### android
 
+*   [Android网络请求心路历程 - 简书](http://www.jianshu.com/p/3141d4e46240)
+*   [Android 各大网络请求库的比较及实战 - 区长的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/sbsujjbcy/article/details/45568053)
 
 
 
